@@ -1,0 +1,6 @@
+[submodule "ext/cpputest"]
+	path = ext/cpputest
+	url = https://github.com/cpputest/cpputest
+[submodule "ext/libucl"]
+	path = ext/libucl
+	url = https://github.com/vstakhov/libucl
